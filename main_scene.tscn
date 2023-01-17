@@ -1,0 +1,10 @@
+[gd_scene format=3 uid="uid://bm4imxp24b57c"]
+
+[node name="MainScene" type="Node3D"]
+
+[node name="TabContainer" type="TabContainer" parent="."]
+offset_right = 558.0
+offset_bottom = 286.0
+
+[node name="Its a test" type="Panel" parent="TabContainer"]
+layout_mode = 2
